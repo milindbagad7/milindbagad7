@@ -1,7 +1,7 @@
 # 💫 About Me:
 ✨ About Me – Milind Bagad<br><br>Hi! I'm Milind Bagad, an aspiring Data Scientist with a strong foundation in Data Analysis.<br>I enjoy exploring data, uncovering insights, and building real-world projects that solve meaningful problems.<br><br>🎓 Currently pursuing: Data Science<br><br>📊 Completed: Data Analysis (SQL, Python, Power BI, Statistics)<br><br>💻 Skilled in: Python | SQL | Power BI | Excel | Data Visualization<br><br>🚀 Currently learning: Machine Learning, APIs & Advanced Analytics<br><br>📂 Working on projects related to Bus Booking System, Option Chain Analysis, and Real-world Data Dashboards<br><br>🌱 Passionate about continuous learning & improving through hands-on practice<br><br>🤝 Open to collaborating on data, analytics, and tech-based projects
 
- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milind-bagad-82786a224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milindbagad7@gmail.com) 
 
